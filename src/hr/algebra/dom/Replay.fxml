@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+<?import javafx.scene.text.TextFlow?>
+
+<AnchorPane id="AnchorPane" prefHeight="700.0" prefWidth="620.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="hr.algebra.dom.ReplayController">
+   <children>
+      <AnchorPane prefHeight="700.0" prefWidth="620.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <children>
+            <AnchorPane prefHeight="500.0" prefWidth="580.0" AnchorPane.bottomAnchor="8.0" AnchorPane.leftAnchor="10.0" AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="92.0">
+               <children>
+                  <GridPane fx:id="MemoryField" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                     <columnConstraints>
+                        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                     </columnConstraints>
+                     <rowConstraints>
+                        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                     </rowConstraints>
+                     <children>
+                        <StackPane prefHeight="150.0" prefWidth="200.0" style="-fx-background-color: white; -fx-border-color: black; -fx-border-width: 2;">
+                           <children>
+                              <Text strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-opacity: 1;" visible="false">
+                                 <font>
+                                    <Font size="80.0" />
+                                 </font>
+                              </Text>
+                           </children>
+                        </StackPane>
+                        <StackPane prefHeight="150.0" prefWidth="200.0" style="-fx-background-color: white; -fx-border-color: black; -fx-border-width: 2;" GridPane.columnIndex="1">
+                           <children>
+                              <Text strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-opacity: 1;" visible="false">
+                                 <font>
+                                    <Font size="80.0" />
+                                 </font>
+                              </Text>
+                           </children>
+                        </StackPane>
+                        <StackPane prefHeight="150.0" prefWidth="200.0" style="-fx-background-color: white; -fx-border-color: black; -fx-border-width: 2;" GridPane.columnIndex="2">
+                           <children>
+                              <Text strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-opacity: 1;" visible="false">
+                                 <font>
+                                    <Font size="80.0" />
+                                 </font>
+                              </Text>
+                           </children>
+                        </StackPane>
+                        <StackPane prefHeight="150.0" prefWidth="200.0" style="-fx-background-color: white; -fx-border-color: black; -fx-border-width: 2;" GridPane.columnIndex="3">
+                           <children>
+                              <Text strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-opacity: 1;" visible="false">
+                                 <font>
+                                    <Font size="80.0" />
+                                 </font>
+                              </Text>
+                           </children>
+                        </StackPane>
+                        <StackPane prefHeight="150.0" prefWidth="200.0" style="-fx-background-color: white; -fx-border-color: black; -fx-border-width: 2;" GridPane.rowIndex="1">
+                           <children>
+                              <Text strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-opacity: 1;" visible="false">
+                                 <font>
+                                    <Font size="80.0" />
+                                 </font>
+                              </Text>
+                           </children>
+                        </StackPane>
+                        <StackPane prefHeight="150.0" prefWidth="200.0" style="-fx-background-color: white; -fx-border-color: black; -fx-border-width: 2;" GridPane.columnIndex="1" GridPane.rowIndex="1">
+                           <children>
+                              <Text strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-opacity: 1;" visible="false">
+                                 <font>
+                                    <Font size="80.0" />
+                                 </font>
+                              </Text>
+                           </children>
+                        </StackPane>
+                        <StackPane prefHeight="150.0" prefWidth="200.0" style="-fx-background-color: white; -fx-border-color: black; -fx-border-width: 2;" GridPane.columnIndex="2" GridPane.rowIndex="1">
+                           <children>
+                              <Text strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-opacity: 1;" visible="false">
+                                 <font>
+                                    <Font size="80.0" />
+                                 </font>
+                              </Text>
+                           </children>
+                        </StackPane>
+                        <StackPane prefHeight="150.0" prefWidth="200.0" style="-fx-background-color: white; -fx-border-color: black; -fx-border-width: 2;" GridPane.columnIndex="3" GridPane.rowIndex="1">
+                           <children>
+                              <Text strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-opacity: 1;" visible="false">
+                                 <font>
+                                    <Font size="80.0" />
+                                 </font>
+                              </Text>
+                           </children>
+                        </StackPane>
+                        <StackPane prefHeight="150.0" prefWidth="200.0" style="-fx-background-color: white; -fx-border-color: black; -fx-border-width: 2;" GridPane.rowIndex="2">
+                           <children>
+                              <Text strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-opacity: 1;" visible="false">
+                                 <font>
+                                    <Font size="80.0" />
+                                 </font>
+                              </Text>
+                           </children>
+                        </StackPane>
+                        <StackPane prefHeight="150.0" prefWidth="200.0" style="-fx-background-color: white; -fx-border-color: black; -fx-border-width: 2;" GridPane.columnIndex="1" GridPane.rowIndex="2">
+                           <children>
+                              <Text strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-opacity: 1;" visible="false">
+                                 <font>
+                                    <Font size="80.0" />
+                                 </font>
+                              </Text>
+                           </children>
+                        </StackPane>
+                        <StackPane prefHeight="150.0" prefWidth="200.0" style="-fx-background-color: white; -fx-border-color: black; -fx-border-width: 2;" GridPane.columnIndex="2" GridPane.rowIndex="2">
+                           <children>
+                              <Text strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-opacity: 1;" visible="false">
+                                 <font>
+                                    <Font size="80.0" />
+                                 </font>
+                              </Text>
+                           </children>
+                        </StackPane>
+                        <StackPane prefHeight="150.0" prefWidth="200.0" style="-fx-background-color: white; -fx-border-color: black; -fx-border-width: 2;" GridPane.columnIndex="3" GridPane.rowIndex="2">
+                           <children>
+                              <Text strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-opacity: 1;" visible="false">
+                                 <font>
+                                    <Font size="80.0" />
+                                 </font>
+                              </Text>
+                           </children>
+                        </StackPane>
+                        <StackPane prefHeight="150.0" prefWidth="200.0" style="-fx-background-color: white; -fx-border-color: black; -fx-border-width: 2;" GridPane.rowIndex="3">
+                           <children>
+                              <Text strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-opacity: 1;" visible="false">
+                                 <font>
+                                    <Font size="80.0" />
+                                 </font>
+                              </Text>
+                           </children>
+                        </StackPane>
+                        <StackPane prefHeight="150.0" prefWidth="200.0" style="-fx-background-color: white; -fx-border-color: black; -fx-border-width: 2;" GridPane.columnIndex="1" GridPane.rowIndex="3">
+                           <children>
+                              <Text strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-opacity: 1;" visible="false">
+                                 <font>
+                                    <Font size="80.0" />
+                                 </font>
+                              </Text>
+                           </children>
+                        </StackPane>
+                        <StackPane prefHeight="150.0" prefWidth="200.0" style="-fx-background-color: white; -fx-border-color: black; -fx-border-width: 2;" GridPane.columnIndex="2" GridPane.rowIndex="3">
+                           <children>
+                              <Text strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-opacity: 1;" visible="false">
+                                 <font>
+                                    <Font size="80.0" />
+                                 </font>
+                              </Text>
+                           </children>
+                        </StackPane>
+                        <StackPane prefHeight="150.0" prefWidth="200.0" style="-fx-background-color: white; -fx-border-color: black; -fx-border-width: 2;" GridPane.columnIndex="3" GridPane.rowIndex="3">
+                           <children>
+                              <Text strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-opacity: 1;" visible="false">
+                                 <font>
+                                    <Font size="80.0" />
+                                 </font>
+                              </Text>
+                           </children>
+                        </StackPane>
+                     </children>
+                  </GridPane>
+               </children>
+            </AnchorPane>
+            <GridPane alignment="TOP_CENTER" prefHeight="92.0" prefWidth="600.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+               <columnConstraints>
+                  <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                  <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="10.0" />
+                  <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+               </columnConstraints>
+               <rowConstraints>
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+               </rowConstraints>
+               <children>
+                  <StackPane id="Player 1" fx:id="spPlayer1" prefHeight="50.0" prefWidth="50.0" style="-fx-background-color: dodgerblue; -fx-border-radius: 5; -fx-border-color: black;" GridPane.rowSpan="2">
+                     <GridPane.margin>
+                        <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+                     </GridPane.margin>
+                  </StackPane>
+                  <StackPane id="Player 2" fx:id="spPlayer2" prefHeight="50.0" prefWidth="50.0" style="-fx-background-color: #ff971f; -fx-border-radius: 5; -fx-border-color: black;" GridPane.columnIndex="2" GridPane.rowSpan="2">
+                     <GridPane.margin>
+                        <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+                     </GridPane.margin>
+                  </StackPane>
+                  <TextFlow maxHeight="40.0" minHeight="40.0" prefHeight="40.0" textAlignment="CENTER">
+                     <children>
+                        <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Player 1">
+                           <font>
+                              <Font size="24.0" />
+                           </font>
+                        </Text>
+                     </children>
+                     <GridPane.margin>
+                        <Insets top="20.0" />
+                     </GridPane.margin>
+                  </TextFlow>
+                  <TextFlow maxHeight="40.0" minHeight="40.0" prefHeight="40.0" textAlignment="CENTER" GridPane.rowIndex="1">
+                     <children>
+                        <Text fx:id="playerScore1" strokeType="OUTSIDE" strokeWidth="0.0" text="0">
+                           <font>
+                              <Font size="24.0" />
+                           </font>
+                        </Text>
+                     </children>
+                     <GridPane.margin>
+                        <Insets />
+                     </GridPane.margin>
+                     <padding>
+                        <Insets bottom="70.0" />
+                     </padding>
+                  </TextFlow>
+                  <TextFlow maxHeight="40.0" minHeight="40.0" prefHeight="40.0" textAlignment="CENTER" GridPane.columnIndex="2">
+                     <children>
+                        <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Player 2">
+                           <font>
+                              <Font size="24.0" />
+                           </font>
+                        </Text>
+                     </children>
+                     <GridPane.margin>
+                        <Insets top="20.0" />
+                     </GridPane.margin>
+                  </TextFlow>
+                  <TextFlow maxHeight="40.0" minHeight="40.0" prefHeight="40.0" textAlignment="CENTER" GridPane.columnIndex="2" GridPane.rowIndex="1">
+                     <children>
+                        <Text fx:id="playerScore2" strokeType="OUTSIDE" strokeWidth="0.0" text="0">
+                           <font>
+                              <Font size="24.0" />
+                           </font>
+                        </Text>
+                     </children>
+                     <GridPane.margin>
+                        <Insets />
+                     </GridPane.margin>
+                  </TextFlow>
+                  <StackPane prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="1">
+                     <children>
+                        <Button mnemonicParsing="false" onAction="#BackToMenuOnClick" text="Back to menu">
+                           <font>
+                              <Font size="18.0" />
+                           </font>
+                        </Button>
+                     </children>
+                  </StackPane>
+                  <GridPane GridPane.columnIndex="1" GridPane.rowIndex="1">
+                    <columnConstraints>
+                      <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                      <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                    </columnConstraints>
+                    <rowConstraints>
+                      <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                    </rowConstraints>
+                     <children>
+                        <StackPane prefHeight="150.0" prefWidth="200.0">
+                           <children>
+                              <Button fx:id="btnBackward" graphicTextGap="0.0" maxHeight="40.0" maxWidth="60.0" minHeight="40.0" minWidth="60.0" mnemonicParsing="false" onAction="#BackwardOnClick" prefHeight="40.0" prefWidth="60.0" text="↶">
+                                 <font>
+                                    <Font name="System Italic" size="22.0" />
+                                 </font>
+                              </Button>
+                           </children>
+                        </StackPane>
+                        <StackPane prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="1">
+                           <children>
+                              <Button fx:id="btnForward" graphicTextGap="0.0" maxHeight="40.0" maxWidth="60.0" minHeight="40.0" minWidth="60.0" mnemonicParsing="false" onAction="#ForwardOnClick" prefHeight="40.0" prefWidth="60.0" text="↷">
+                                 <font>
+                                    <Font name="System Bold" size="22.0" />
+                                 </font>
+                              </Button>
+                           </children>
+                        </StackPane>
+                     </children>
+                  </GridPane>
+                  <StackPane prefHeight="150.0" prefWidth="200.0" />
+               </children>
+            </GridPane>
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>

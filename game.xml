@@ -1,0 +1,3637 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GameBoards>
+    <board>
+        <nextPlayer>1</nextPlayer>
+        <activePlayer>1</activePlayer>
+        <tiles>
+            <tile index="0">
+                <value>A</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="1">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="2">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="3">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="4">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="5">
+                <value>D</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="6">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="7">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="8">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="9">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="10">
+                <value>D</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="11">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="12">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="13">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="14">
+                <value>A</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="15">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+        </tiles>
+        <player id="1">
+            <score>0</score>
+            <visible>true</visible>
+        </player>
+        <player id="2">
+            <score>0</score>
+            <visible>true</visible>
+        </player>
+        <count>0</count>
+    </board>
+    <board>
+        <nextPlayer>1</nextPlayer>
+        <activePlayer>1</activePlayer>
+        <tiles>
+            <tile index="0">
+                <value>A</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="1">
+                <value>H</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="2">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="3">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="4">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="5">
+                <value>D</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="6">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="7">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="8">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="9">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="10">
+                <value>D</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="11">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="12">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="13">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="14">
+                <value>A</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="15">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+        </tiles>
+        <player id="1">
+            <score>0</score>
+            <visible>true</visible>
+        </player>
+        <player id="2">
+            <score>0</score>
+            <visible>true</visible>
+        </player>
+        <count>0</count>
+    </board>
+    <board>
+        <nextPlayer>2</nextPlayer>
+        <activePlayer>2</activePlayer>
+        <tiles>
+            <tile index="0">
+                <value>A</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="1">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="2">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="3">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="4">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="5">
+                <value>D</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="6">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="7">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="8">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="9">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="10">
+                <value>D</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="11">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="12">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="13">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="14">
+                <value>A</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="15">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+        </tiles>
+        <player id="1">
+            <score>0</score>
+            <visible>true</visible>
+        </player>
+        <player id="2">
+            <score>0</score>
+            <visible>true</visible>
+        </player>
+        <count>0</count>
+    </board>
+    <board>
+        <nextPlayer>2</nextPlayer>
+        <activePlayer>2</activePlayer>
+        <tiles>
+            <tile index="0">
+                <value>A</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="1">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="2">
+                <value>G</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="3">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="4">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="5">
+                <value>D</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="6">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="7">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="8">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="9">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="10">
+                <value>D</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="11">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="12">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="13">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="14">
+                <value>A</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="15">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+        </tiles>
+        <player id="1">
+            <score>0</score>
+            <visible>true</visible>
+        </player>
+        <player id="2">
+            <score>0</score>
+            <visible>true</visible>
+        </player>
+        <count>0</count>
+    </board>
+    <board>
+        <nextPlayer>2</nextPlayer>
+        <activePlayer>2</activePlayer>
+        <tiles>
+            <tile index="0">
+                <value>A</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="1">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="2">
+                <value>G</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="3">
+                <value>E</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="4">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="5">
+                <value>D</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="6">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="7">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="8">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="9">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="10">
+                <value>D</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="11">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="12">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="13">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="14">
+                <value>A</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="15">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+        </tiles>
+        <player id="1">
+            <score>0</score>
+            <visible>true</visible>
+        </player>
+        <player id="2">
+            <score>0</score>
+            <visible>true</visible>
+        </player>
+        <count>0</count>
+    </board>
+    <board>
+        <nextPlayer>1</nextPlayer>
+        <activePlayer>1</activePlayer>
+        <tiles>
+            <tile index="0">
+                <value>A</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="1">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="2">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="3">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="4">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="5">
+                <value>D</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="6">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="7">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="8">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="9">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="10">
+                <value>D</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="11">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="12">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="13">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="14">
+                <value>A</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="15">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+        </tiles>
+        <player id="1">
+            <score>0</score>
+            <visible>true</visible>
+        </player>
+        <player id="2">
+            <score>0</score>
+            <visible>true</visible>
+        </player>
+        <count>0</count>
+    </board>
+    <board>
+        <nextPlayer>1</nextPlayer>
+        <activePlayer>1</activePlayer>
+        <tiles>
+            <tile index="0">
+                <value>A</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="1">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="2">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="3">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="4">
+                <value>H</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="5">
+                <value>D</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="6">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="7">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="8">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="9">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="10">
+                <value>D</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="11">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="12">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="13">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="14">
+                <value>A</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="15">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+        </tiles>
+        <player id="1">
+            <score>0</score>
+            <visible>true</visible>
+        </player>
+        <player id="2">
+            <score>0</score>
+            <visible>true</visible>
+        </player>
+        <count>0</count>
+    </board>
+    <board>
+        <nextPlayer>1</nextPlayer>
+        <activePlayer>1</activePlayer>
+        <tiles>
+            <tile index="0">
+                <value>A</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="1">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="2">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="3">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="4">
+                <value>H</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="5">
+                <value>D</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="6">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="7">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="8">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="9">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="10">
+                <value>D</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="11">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="12">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="13">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="14">
+                <value>A</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="15">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+        </tiles>
+        <player id="1">
+            <score>0</score>
+            <visible>true</visible>
+        </player>
+        <player id="2">
+            <score>0</score>
+            <visible>true</visible>
+        </player>
+        <count>0</count>
+    </board>
+    <board>
+        <nextPlayer>2</nextPlayer>
+        <activePlayer>2</activePlayer>
+        <tiles>
+            <tile index="0">
+                <value>A</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="1">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="2">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="3">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="4">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="5">
+                <value>D</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="6">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="7">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="8">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="9">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="10">
+                <value>D</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="11">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="12">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="13">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="14">
+                <value>A</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="15">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+        </tiles>
+        <player id="1">
+            <score>0</score>
+            <visible>true</visible>
+        </player>
+        <player id="2">
+            <score>0</score>
+            <visible>true</visible>
+        </player>
+        <count>0</count>
+    </board>
+    <board>
+        <nextPlayer>2</nextPlayer>
+        <activePlayer>2</activePlayer>
+        <tiles>
+            <tile index="0">
+                <value>A</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="1">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="2">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="3">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="4">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="5">
+                <value>D</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="6">
+                <value>F</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="7">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="8">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="9">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="10">
+                <value>D</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="11">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="12">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="13">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="14">
+                <value>A</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="15">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+        </tiles>
+        <player id="1">
+            <score>0</score>
+            <visible>true</visible>
+        </player>
+        <player id="2">
+            <score>0</score>
+            <visible>true</visible>
+        </player>
+        <count>0</count>
+    </board>
+    <board>
+        <nextPlayer>2</nextPlayer>
+        <activePlayer>2</activePlayer>
+        <tiles>
+            <tile index="0">
+                <value>A</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="1">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="2">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="3">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="4">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="5">
+                <value>D</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="6">
+                <value>F</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="7">
+                <value>B</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="8">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="9">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="10">
+                <value>D</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="11">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="12">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="13">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="14">
+                <value>A</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="15">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+        </tiles>
+        <player id="1">
+            <score>0</score>
+            <visible>true</visible>
+        </player>
+        <player id="2">
+            <score>0</score>
+            <visible>true</visible>
+        </player>
+        <count>0</count>
+    </board>
+    <board>
+        <nextPlayer>1</nextPlayer>
+        <activePlayer>1</activePlayer>
+        <tiles>
+            <tile index="0">
+                <value>A</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="1">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="2">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="3">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="4">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="5">
+                <value>D</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="6">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="7">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="8">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="9">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="10">
+                <value>D</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="11">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="12">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="13">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="14">
+                <value>A</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="15">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+        </tiles>
+        <player id="1">
+            <score>0</score>
+            <visible>true</visible>
+        </player>
+        <player id="2">
+            <score>0</score>
+            <visible>true</visible>
+        </player>
+        <count>0</count>
+    </board>
+    <board>
+        <nextPlayer>1</nextPlayer>
+        <activePlayer>1</activePlayer>
+        <tiles>
+            <tile index="0">
+                <value>A</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="1">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="2">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="3">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="4">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="5">
+                <value>D</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="6">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="7">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="8">
+                <value>E</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="9">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="10">
+                <value>D</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="11">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="12">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="13">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="14">
+                <value>A</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="15">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+        </tiles>
+        <player id="1">
+            <score>0</score>
+            <visible>true</visible>
+        </player>
+        <player id="2">
+            <score>0</score>
+            <visible>true</visible>
+        </player>
+        <count>0</count>
+    </board>
+    <board>
+        <nextPlayer>1</nextPlayer>
+        <activePlayer>1</activePlayer>
+        <tiles>
+            <tile index="0">
+                <value>A</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="1">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="2">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="3">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="4">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="5">
+                <value>D</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="6">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="7">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="8">
+                <value>E</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="9">
+                <value>C</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="10">
+                <value>D</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="11">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="12">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="13">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="14">
+                <value>A</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="15">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+        </tiles>
+        <player id="1">
+            <score>0</score>
+            <visible>true</visible>
+        </player>
+        <player id="2">
+            <score>0</score>
+            <visible>true</visible>
+        </player>
+        <count>0</count>
+    </board>
+    <board>
+        <nextPlayer>2</nextPlayer>
+        <activePlayer>2</activePlayer>
+        <tiles>
+            <tile index="0">
+                <value>A</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="1">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="2">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="3">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="4">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="5">
+                <value>D</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="6">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="7">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="8">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="9">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="10">
+                <value>D</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="11">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="12">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="13">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="14">
+                <value>A</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="15">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+        </tiles>
+        <player id="1">
+            <score>0</score>
+            <visible>true</visible>
+        </player>
+        <player id="2">
+            <score>0</score>
+            <visible>true</visible>
+        </player>
+        <count>0</count>
+    </board>
+    <board>
+        <nextPlayer>2</nextPlayer>
+        <activePlayer>2</activePlayer>
+        <tiles>
+            <tile index="0">
+                <value>A</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="1">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="2">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="3">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="4">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="5">
+                <value>D</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="6">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="7">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="8">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="9">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="10">
+                <value>D</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="11">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="12">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="13">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="14">
+                <value>A</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="15">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+        </tiles>
+        <player id="1">
+            <score>0</score>
+            <visible>true</visible>
+        </player>
+        <player id="2">
+            <score>0</score>
+            <visible>true</visible>
+        </player>
+        <count>0</count>
+    </board>
+    <board>
+        <nextPlayer>2</nextPlayer>
+        <activePlayer>2</activePlayer>
+        <tiles>
+            <tile index="0">
+                <value>A</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="1">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="2">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="3">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="4">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="5">
+                <value>D</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="6">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="7">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="8">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="9">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="10">
+                <value>D</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="11">
+                <value>C</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="12">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="13">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="14">
+                <value>A</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="15">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+        </tiles>
+        <player id="1">
+            <score>0</score>
+            <visible>true</visible>
+        </player>
+        <player id="2">
+            <score>0</score>
+            <visible>true</visible>
+        </player>
+        <count>0</count>
+    </board>
+    <board>
+        <nextPlayer>1</nextPlayer>
+        <activePlayer>1</activePlayer>
+        <tiles>
+            <tile index="0">
+                <value>A</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="1">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="2">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="3">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="4">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="5">
+                <value>D</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="6">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="7">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="8">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="9">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="10">
+                <value>D</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="11">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="12">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="13">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="14">
+                <value>A</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="15">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+        </tiles>
+        <player id="1">
+            <score>0</score>
+            <visible>true</visible>
+        </player>
+        <player id="2">
+            <score>0</score>
+            <visible>true</visible>
+        </player>
+        <count>0</count>
+    </board>
+    <board>
+        <nextPlayer>1</nextPlayer>
+        <activePlayer>1</activePlayer>
+        <tiles>
+            <tile index="0">
+                <value>A</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="1">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="2">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="3">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="4">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="5">
+                <value>D</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="6">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="7">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="8">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="9">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="10">
+                <value>D</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="11">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="12">
+                <value>G</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="13">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="14">
+                <value>A</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="15">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+        </tiles>
+        <player id="1">
+            <score>0</score>
+            <visible>true</visible>
+        </player>
+        <player id="2">
+            <score>0</score>
+            <visible>true</visible>
+        </player>
+        <count>0</count>
+    </board>
+    <board>
+        <nextPlayer>1</nextPlayer>
+        <activePlayer>1</activePlayer>
+        <tiles>
+            <tile index="0">
+                <value>A</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="1">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="2">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="3">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="4">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="5">
+                <value>D</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="6">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="7">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="8">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="9">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="10">
+                <value>D</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="11">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="12">
+                <value>G</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="13">
+                <value>B</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="14">
+                <value>A</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="15">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+        </tiles>
+        <player id="1">
+            <score>0</score>
+            <visible>true</visible>
+        </player>
+        <player id="2">
+            <score>0</score>
+            <visible>true</visible>
+        </player>
+        <count>0</count>
+    </board>
+    <board>
+        <nextPlayer>2</nextPlayer>
+        <activePlayer>2</activePlayer>
+        <tiles>
+            <tile index="0">
+                <value>A</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="1">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="2">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="3">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="4">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="5">
+                <value>D</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="6">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="7">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="8">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="9">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="10">
+                <value>D</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="11">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="12">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="13">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="14">
+                <value>A</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="15">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+        </tiles>
+        <player id="1">
+            <score>0</score>
+            <visible>true</visible>
+        </player>
+        <player id="2">
+            <score>0</score>
+            <visible>true</visible>
+        </player>
+        <count>0</count>
+    </board>
+    <board>
+        <nextPlayer>2</nextPlayer>
+        <activePlayer>2</activePlayer>
+        <tiles>
+            <tile index="0">
+                <value>A</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="1">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="2">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="3">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="4">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="5">
+                <value>D</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="6">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="7">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="8">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="9">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="10">
+                <value>D</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="11">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="12">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="13">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="14">
+                <value>A</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="15">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+        </tiles>
+        <player id="1">
+            <score>0</score>
+            <visible>true</visible>
+        </player>
+        <player id="2">
+            <score>0</score>
+            <visible>true</visible>
+        </player>
+        <count>0</count>
+    </board>
+    <board>
+        <nextPlayer>2</nextPlayer>
+        <activePlayer>2</activePlayer>
+        <tiles>
+            <tile index="0">
+                <value>A</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="1">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="2">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="3">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="4">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="5">
+                <value>D</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="6">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="7">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="8">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="9">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="10">
+                <value>D</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="11">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="12">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="13">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="14">
+                <value>A</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="15">
+                <value>F</value>
+                <isOpen>true</isOpen>
+            </tile>
+        </tiles>
+        <player id="1">
+            <score>0</score>
+            <visible>true</visible>
+        </player>
+        <player id="2">
+            <score>0</score>
+            <visible>true</visible>
+        </player>
+        <count>0</count>
+    </board>
+    <board>
+        <nextPlayer>1</nextPlayer>
+        <activePlayer>1</activePlayer>
+        <tiles>
+            <tile index="0">
+                <value>A</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="1">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="2">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="3">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="4">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="5">
+                <value>D</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="6">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="7">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="8">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="9">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="10">
+                <value>D</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="11">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="12">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="13">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="14">
+                <value>A</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="15">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+        </tiles>
+        <player id="1">
+            <score>0</score>
+            <visible>true</visible>
+        </player>
+        <player id="2">
+            <score>0</score>
+            <visible>true</visible>
+        </player>
+        <count>0</count>
+    </board>
+    <board>
+        <nextPlayer>1</nextPlayer>
+        <activePlayer>1</activePlayer>
+        <tiles>
+            <tile index="0">
+                <value>A</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="1">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="2">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="3">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="4">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="5">
+                <value>D</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="6">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="7">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="8">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="9">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="10">
+                <value>D</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="11">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="12">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="13">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="14">
+                <value>A</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="15">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+        </tiles>
+        <player id="1">
+            <score>0</score>
+            <visible>true</visible>
+        </player>
+        <player id="2">
+            <score>0</score>
+            <visible>true</visible>
+        </player>
+        <count>0</count>
+    </board>
+    <board>
+        <nextPlayer>1</nextPlayer>
+        <activePlayer>1</activePlayer>
+        <tiles>
+            <tile index="0">
+                <value>A</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="1">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="2">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="3">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="4">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="5">
+                <value>D</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="6">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="7">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="8">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="9">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="10">
+                <value>D</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="11">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="12">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="13">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="14">
+                <value>A</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="15">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+        </tiles>
+        <player id="1">
+            <score>1</score>
+            <visible>true</visible>
+        </player>
+        <player id="2">
+            <score>0</score>
+            <visible>true</visible>
+        </player>
+        <count>0</count>
+    </board>
+    <board>
+        <nextPlayer>1</nextPlayer>
+        <activePlayer>1</activePlayer>
+        <tiles>
+            <tile index="0">
+                <value>A</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="1">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="2">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="3">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="4">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="5">
+                <value>D</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="6">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="7">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="8">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="9">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="10">
+                <value>D</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="11">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="12">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="13">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="14">
+                <value>A</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="15">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+        </tiles>
+        <player id="1">
+            <score>1</score>
+            <visible>true</visible>
+        </player>
+        <player id="2">
+            <score>0</score>
+            <visible>true</visible>
+        </player>
+        <count>1</count>
+    </board>
+    <board>
+        <nextPlayer>1</nextPlayer>
+        <activePlayer>1</activePlayer>
+        <tiles>
+            <tile index="0">
+                <value>A</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="1">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="2">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="3">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="4">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="5">
+                <value>D</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="6">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="7">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="8">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="9">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="10">
+                <value>D</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="11">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="12">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="13">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="14">
+                <value>A</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="15">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+        </tiles>
+        <player id="1">
+            <score>2</score>
+            <visible>true</visible>
+        </player>
+        <player id="2">
+            <score>0</score>
+            <visible>true</visible>
+        </player>
+        <count>1</count>
+    </board>
+    <board>
+        <nextPlayer>1</nextPlayer>
+        <activePlayer>1</activePlayer>
+        <tiles>
+            <tile index="0">
+                <value>A</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="1">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="2">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="3">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="4">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="5">
+                <value>D</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="6">
+                <value>F</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="7">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="8">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="9">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="10">
+                <value>D</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="11">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="12">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="13">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="14">
+                <value>A</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="15">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+        </tiles>
+        <player id="1">
+            <score>2</score>
+            <visible>true</visible>
+        </player>
+        <player id="2">
+            <score>0</score>
+            <visible>true</visible>
+        </player>
+        <count>2</count>
+    </board>
+    <board>
+        <nextPlayer>1</nextPlayer>
+        <activePlayer>1</activePlayer>
+        <tiles>
+            <tile index="0">
+                <value>A</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="1">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="2">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="3">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="4">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="5">
+                <value>D</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="6">
+                <value>F</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="7">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="8">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="9">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="10">
+                <value>D</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="11">
+                <value>C</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="12">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="13">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="14">
+                <value>A</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="15">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+        </tiles>
+        <player id="1">
+            <score>2</score>
+            <visible>true</visible>
+        </player>
+        <player id="2">
+            <score>0</score>
+            <visible>true</visible>
+        </player>
+        <count>2</count>
+    </board>
+    <board>
+        <nextPlayer>2</nextPlayer>
+        <activePlayer>2</activePlayer>
+        <tiles>
+            <tile index="0">
+                <value>A</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="1">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="2">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="3">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="4">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="5">
+                <value>D</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="6">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="7">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="8">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="9">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="10">
+                <value>D</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="11">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="12">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="13">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="14">
+                <value>A</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="15">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+        </tiles>
+        <player id="1">
+            <score>2</score>
+            <visible>true</visible>
+        </player>
+        <player id="2">
+            <score>0</score>
+            <visible>true</visible>
+        </player>
+        <count>2</count>
+    </board>
+    <board>
+        <nextPlayer>2</nextPlayer>
+        <activePlayer>2</activePlayer>
+        <tiles>
+            <tile index="0">
+                <value>A</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="1">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="2">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="3">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="4">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="5">
+                <value>D</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="6">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="7">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="8">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="9">
+                <value>C</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="10">
+                <value>D</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="11">
+                <value>C</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="12">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="13">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="14">
+                <value>A</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="15">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+        </tiles>
+        <player id="1">
+            <score>2</score>
+            <visible>true</visible>
+        </player>
+        <player id="2">
+            <score>0</score>
+            <visible>true</visible>
+        </player>
+        <count>2</count>
+    </board>
+    <board>
+        <nextPlayer>2</nextPlayer>
+        <activePlayer>2</activePlayer>
+        <tiles>
+            <tile index="0">
+                <value>A</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="1">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="2">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="3">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="4">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="5">
+                <value>D</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="6">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="7">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="8">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="9">
+                <value>C</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="10">
+                <value>D</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="11">
+                <value>C</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="12">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="13">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="14">
+                <value>A</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="15">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+        </tiles>
+        <player id="1">
+            <score>2</score>
+            <visible>true</visible>
+        </player>
+        <player id="2">
+            <score>1</score>
+            <visible>true</visible>
+        </player>
+        <count>2</count>
+    </board>
+    <board>
+        <nextPlayer>2</nextPlayer>
+        <activePlayer>2</activePlayer>
+        <tiles>
+            <tile index="0">
+                <value>A</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="1">
+                <value>H</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="2">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="3">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="4">
+                <value>H</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="5">
+                <value>D</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="6">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="7">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="8">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="9">
+                <value>C</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="10">
+                <value>D</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="11">
+                <value>C</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="12">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="13">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="14">
+                <value>A</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="15">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+        </tiles>
+        <player id="1">
+            <score>2</score>
+            <visible>true</visible>
+        </player>
+        <player id="2">
+            <score>1</score>
+            <visible>true</visible>
+        </player>
+        <count>3</count>
+    </board>
+    <board>
+        <nextPlayer>2</nextPlayer>
+        <activePlayer>2</activePlayer>
+        <tiles>
+            <tile index="0">
+                <value>A</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="1">
+                <value>H</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="2">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="3">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="4">
+                <value>H</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="5">
+                <value>D</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="6">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="7">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="8">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="9">
+                <value>C</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="10">
+                <value>D</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="11">
+                <value>C</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="12">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="13">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="14">
+                <value>A</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="15">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+        </tiles>
+        <player id="1">
+            <score>2</score>
+            <visible>true</visible>
+        </player>
+        <player id="2">
+            <score>2</score>
+            <visible>true</visible>
+        </player>
+        <count>3</count>
+    </board>
+    <board>
+        <nextPlayer>2</nextPlayer>
+        <activePlayer>2</activePlayer>
+        <tiles>
+            <tile index="0">
+                <value>A</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="1">
+                <value>H</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="2">
+                <value>G</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="3">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="4">
+                <value>H</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="5">
+                <value>D</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="6">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="7">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="8">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="9">
+                <value>C</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="10">
+                <value>D</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="11">
+                <value>C</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="12">
+                <value>G</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="13">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="14">
+                <value>A</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="15">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+        </tiles>
+        <player id="1">
+            <score>2</score>
+            <visible>true</visible>
+        </player>
+        <player id="2">
+            <score>2</score>
+            <visible>true</visible>
+        </player>
+        <count>4</count>
+    </board>
+    <board>
+        <nextPlayer>2</nextPlayer>
+        <activePlayer>2</activePlayer>
+        <tiles>
+            <tile index="0">
+                <value>A</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="1">
+                <value>H</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="2">
+                <value>G</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="3">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="4">
+                <value>H</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="5">
+                <value>D</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="6">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="7">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="8">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="9">
+                <value>C</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="10">
+                <value>D</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="11">
+                <value>C</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="12">
+                <value>G</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="13">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="14">
+                <value>A</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="15">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+        </tiles>
+        <player id="1">
+            <score>2</score>
+            <visible>true</visible>
+        </player>
+        <player id="2">
+            <score>3</score>
+            <visible>true</visible>
+        </player>
+        <count>4</count>
+    </board>
+    <board>
+        <nextPlayer>2</nextPlayer>
+        <activePlayer>2</activePlayer>
+        <tiles>
+            <tile index="0">
+                <value>A</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="1">
+                <value>H</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="2">
+                <value>G</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="3">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="4">
+                <value>H</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="5">
+                <value>D</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="6">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="7">
+                <value>B</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="8">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="9">
+                <value>C</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="10">
+                <value>D</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="11">
+                <value>C</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="12">
+                <value>G</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="13">
+                <value>B</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="14">
+                <value>A</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="15">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+        </tiles>
+        <player id="1">
+            <score>2</score>
+            <visible>true</visible>
+        </player>
+        <player id="2">
+            <score>3</score>
+            <visible>true</visible>
+        </player>
+        <count>5</count>
+    </board>
+    <board>
+        <nextPlayer>2</nextPlayer>
+        <activePlayer>2</activePlayer>
+        <tiles>
+            <tile index="0">
+                <value>A</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="1">
+                <value>H</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="2">
+                <value>G</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="3">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="4">
+                <value>H</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="5">
+                <value>D</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="6">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="7">
+                <value>B</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="8">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="9">
+                <value>C</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="10">
+                <value>D</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="11">
+                <value>C</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="12">
+                <value>G</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="13">
+                <value>B</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="14">
+                <value>A</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="15">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+        </tiles>
+        <player id="1">
+            <score>2</score>
+            <visible>true</visible>
+        </player>
+        <player id="2">
+            <score>4</score>
+            <visible>true</visible>
+        </player>
+        <count>5</count>
+    </board>
+    <board>
+        <nextPlayer>2</nextPlayer>
+        <activePlayer>2</activePlayer>
+        <tiles>
+            <tile index="0">
+                <value>A</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="1">
+                <value>H</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="2">
+                <value>G</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="3">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="4">
+                <value>H</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="5">
+                <value>D</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="6">
+                <value>F</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="7">
+                <value>B</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="8">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="9">
+                <value>C</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="10">
+                <value>D</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="11">
+                <value>C</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="12">
+                <value>G</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="13">
+                <value>B</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="14">
+                <value>A</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="15">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+        </tiles>
+        <player id="1">
+            <score>2</score>
+            <visible>true</visible>
+        </player>
+        <player id="2">
+            <score>4</score>
+            <visible>true</visible>
+        </player>
+        <count>6</count>
+    </board>
+    <board>
+        <nextPlayer>2</nextPlayer>
+        <activePlayer>2</activePlayer>
+        <tiles>
+            <tile index="0">
+                <value>A</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="1">
+                <value>H</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="2">
+                <value>G</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="3">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="4">
+                <value>H</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="5">
+                <value>D</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="6">
+                <value>F</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="7">
+                <value>B</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="8">
+                <value>E</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="9">
+                <value>C</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="10">
+                <value>D</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="11">
+                <value>C</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="12">
+                <value>G</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="13">
+                <value>B</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="14">
+                <value>A</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="15">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+        </tiles>
+        <player id="1">
+            <score>2</score>
+            <visible>true</visible>
+        </player>
+        <player id="2">
+            <score>4</score>
+            <visible>true</visible>
+        </player>
+        <count>6</count>
+    </board>
+    <board>
+        <nextPlayer>1</nextPlayer>
+        <activePlayer>1</activePlayer>
+        <tiles>
+            <tile index="0">
+                <value>A</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="1">
+                <value>H</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="2">
+                <value>G</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="3">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="4">
+                <value>H</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="5">
+                <value>D</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="6">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="7">
+                <value>B</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="8">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="9">
+                <value>C</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="10">
+                <value>D</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="11">
+                <value>C</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="12">
+                <value>G</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="13">
+                <value>B</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="14">
+                <value>A</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="15">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+        </tiles>
+        <player id="1">
+            <score>2</score>
+            <visible>true</visible>
+        </player>
+        <player id="2">
+            <score>4</score>
+            <visible>true</visible>
+        </player>
+        <count>6</count>
+    </board>
+    <board>
+        <nextPlayer>1</nextPlayer>
+        <activePlayer>1</activePlayer>
+        <tiles>
+            <tile index="0">
+                <value>A</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="1">
+                <value>H</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="2">
+                <value>G</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="3">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="4">
+                <value>H</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="5">
+                <value>D</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="6">
+                <value>F</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="7">
+                <value>B</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="8">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="9">
+                <value>C</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="10">
+                <value>D</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="11">
+                <value>C</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="12">
+                <value>G</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="13">
+                <value>B</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="14">
+                <value>A</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="15">
+                <value>F</value>
+                <isOpen>false</isOpen>
+            </tile>
+        </tiles>
+        <player id="1">
+            <score>2</score>
+            <visible>true</visible>
+        </player>
+        <player id="2">
+            <score>4</score>
+            <visible>true</visible>
+        </player>
+        <count>6</count>
+    </board>
+    <board>
+        <nextPlayer>1</nextPlayer>
+        <activePlayer>1</activePlayer>
+        <tiles>
+            <tile index="0">
+                <value>A</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="1">
+                <value>H</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="2">
+                <value>G</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="3">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="4">
+                <value>H</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="5">
+                <value>D</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="6">
+                <value>F</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="7">
+                <value>B</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="8">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="9">
+                <value>C</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="10">
+                <value>D</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="11">
+                <value>C</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="12">
+                <value>G</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="13">
+                <value>B</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="14">
+                <value>A</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="15">
+                <value>F</value>
+                <isOpen>true</isOpen>
+            </tile>
+        </tiles>
+        <player id="1">
+            <score>3</score>
+            <visible>true</visible>
+        </player>
+        <player id="2">
+            <score>4</score>
+            <visible>true</visible>
+        </player>
+        <count>6</count>
+    </board>
+    <board>
+        <nextPlayer>1</nextPlayer>
+        <activePlayer>1</activePlayer>
+        <tiles>
+            <tile index="0">
+                <value>A</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="1">
+                <value>H</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="2">
+                <value>G</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="3">
+                <value>E</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="4">
+                <value>H</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="5">
+                <value>D</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="6">
+                <value>F</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="7">
+                <value>B</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="8">
+                <value>E</value>
+                <isOpen>false</isOpen>
+            </tile>
+            <tile index="9">
+                <value>C</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="10">
+                <value>D</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="11">
+                <value>C</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="12">
+                <value>G</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="13">
+                <value>B</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="14">
+                <value>A</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="15">
+                <value>F</value>
+                <isOpen>true</isOpen>
+            </tile>
+        </tiles>
+        <player id="1">
+            <score>3</score>
+            <visible>true</visible>
+        </player>
+        <player id="2">
+            <score>4</score>
+            <visible>true</visible>
+        </player>
+        <count>7</count>
+    </board>
+    <board>
+        <nextPlayer>1</nextPlayer>
+        <activePlayer>1</activePlayer>
+        <tiles>
+            <tile index="0">
+                <value>A</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="1">
+                <value>H</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="2">
+                <value>G</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="3">
+                <value>E</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="4">
+                <value>H</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="5">
+                <value>D</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="6">
+                <value>F</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="7">
+                <value>B</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="8">
+                <value>E</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="9">
+                <value>C</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="10">
+                <value>D</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="11">
+                <value>C</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="12">
+                <value>G</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="13">
+                <value>B</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="14">
+                <value>A</value>
+                <isOpen>true</isOpen>
+            </tile>
+            <tile index="15">
+                <value>F</value>
+                <isOpen>true</isOpen>
+            </tile>
+        </tiles>
+        <player id="1">
+            <score>4</score>
+            <visible>true</visible>
+        </player>
+        <player id="2">
+            <score>4</score>
+            <visible>true</visible>
+        </player>
+        <count>7</count>
+    </board>
+</GameBoards>
